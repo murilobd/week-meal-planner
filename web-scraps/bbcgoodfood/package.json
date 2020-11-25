@@ -1,0 +1,41 @@
+{
+  "name": "bbcgoodfood",
+  "version": "1.0.0",
+  "description": "web scrap for bbcgoodfood",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/murilobd/week-meal-planner.git"
+  },
+  "keywords": [
+    "web-scrapping",
+    "javascript",
+    "nodejs",
+    "meals"
+  ],
+  "author": "Murilo Boareto Delefrate",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/murilobd/week-meal-planner/issues"
+  },
+  "homepage": "https://github.com/murilobd/week-meal-planner#readme",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "cli-progress": "^3.8.2",
+    "jsdom": "^16.4.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.13.0",
+    "eslint-config-prettier": "^6.15.0",
+    "eslint-config-standard": "^16.0.2",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-prettier": "^3.1.4",
+    "eslint-plugin-promise": "^4.2.1",
+    "prettier": "^2.1.2"
+  }
+}
